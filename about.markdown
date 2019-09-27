@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+home: /index.html/
 permalink: /about/
 ---
 
