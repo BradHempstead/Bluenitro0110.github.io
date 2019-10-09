@@ -1,0 +1,5 @@
+#REEEEEEEEEEEEEEE
+random crap
+F(W) = integral of ( f(t)e^(-jwt) ) between infinity and -infinity
+
+and f(t) = (1/2pi) * integral of ( F(W)e^(jwt) dW) between inf and -inf
